@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alfaaz-uddin (Alfaz)
-- 👀 I’m a Computer Science student
+- 🎓 I’m a Computer Science student
 - 🌱 I’m currently learning Java 
 - 💞️ I’m open for collaboration
 - 📫 Reach me at - alfazuddin531@gmail.com
