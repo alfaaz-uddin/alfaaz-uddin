@@ -10,11 +10,11 @@
 
 <div align="center">
  
-- 👋 I am Alfaz Uddin
-- 🎓 I’m a Computer Science student
-- 🌱 Currently I’m learning Database 
-- 💞️ I’m open for collaboration
-- 📫 Reach me at - alfazuddin531@gmail.com
+ 🧑‍💻 I am Alfaz Uddin <br>
+ 🎓 I’m a Computer Science student <br>
+ 🌱 Currently I’m learning Database <br>
+ 💞️ I’m open for collaboration <br>
+ 📫 Reach me at - alfazuddin531@gmail.com <br>
 
  </div>
  
