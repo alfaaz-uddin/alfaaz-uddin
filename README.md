@@ -12,7 +12,7 @@
  
  🧑‍💻 I am Alfaz Uddin <br>
  🎓 I’m a Computer Science student <br>
- 🌱 Currently I’m learning Database <br>
+ 🌱 Currently I’m Exploring... <br>
  💞️ I’m open for collaboration <br>
  📫 Reach me at - alfazuddin531@gmail.com <br>
 
