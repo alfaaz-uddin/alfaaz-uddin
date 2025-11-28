@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=200&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I+am+Alfaz+" alt="Typing SVG" /> <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=12000&pause=1000&color=43F7EA&center=true&vCenter=true&width=435&lines=Welcoming+you+to+my+universe" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=12000&pause=200&color=43F7EA&center=true&vCenter=true&width=435&lines=Welcome+to+my+universe" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,java,c,cpp,vscode,github,git,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,c,cpp,vscode,github,git,wordpress,php,mysql,cs,js,python" />
     <br>
     
 </div>
