@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🧑‍💻 I am Alfaz Uddin <br>
- 🎓 I’m a Computer Science student <br>
- 🌱 Currently I’m Exploring... <br>
- 💞️ I’m open for collaboration <br>
- 📫 Reach me at - alfazuddin531@gmail.com <br>
+  I am Alfaz Uddin 🧑‍💻 <br>
+  I’m a Computer Science student@AIUB <br>
+  Currently I’m Exploring Community tech solutions<br>
+  I’m open for any collaborations <br>
+  Reach me at - alfazuddin531@gmail.com <br>
 
  </div>
  
